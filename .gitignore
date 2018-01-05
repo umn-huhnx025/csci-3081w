@@ -1,0 +1,101 @@
+# Build Products
+build/
+
+# Test images
+tests/output/
+
+# Docs
+doc/html/
+doc/latex/
+web/html
+web/latex
+
+# Config
+config.log
+config.status
+
+### External Libraries ###
+ext/bin/
+ext/include/
+ext/lib/
+ext/share/
+
+# GLUI
+ext/glui/build/
+ext/glui/lib/
+ext/glui/obj/
+
+# JPEG-9a
+ext/jpeg-9a/.deps/
+ext/jpeg-9a/.libs/
+ext/jpeg-9a/autom4te.cache/
+ext/jpeg-9a/Makefile
+ext/jpeg-9a/bin/
+ext/jpeg-9a/*.o
+ext/jpeg-9a/*.lo
+ext/jpeg-9a/cjpeg
+ext/jpeg-9a/config.log
+ext/jpeg-9a/config.status
+ext/jpeg-9a/djpeg
+ext/jpeg-9a/include/
+ext/jpeg-9a/jconfig.h
+ext/jpeg-9a/jpegtran
+ext/jpeg-9a/lib/
+ext/jpeg-9a/libjpeg.la
+ext/jpeg-9a/libtool
+ext/jpeg-9a/rdjpgcom
+ext/jpeg-9a/share/
+ext/jpeg-9a/stamp-h1
+ext/jpeg-9a/testout*
+ext/jpeg-9a/wrjpgcom
+
+
+# LIBPNG
+ext/libpng-1.6.16/.deps/
+ext/libpng-1.6.16/.libs/
+ext/libpng-1.6.16/Makefile
+ext/libpng-1.6.16/arm/.deps/
+ext/libpng-1.6.16/autom4te.cache/
+ext/libpng-1.6.16/bin/
+ext/libpng-1.6.16/config.h
+ext/libpng-1.6.16/config.log
+ext/libpng-1.6.16/config.status
+ext/libpng-1.6.16/contrib/libtests/.deps/
+ext/libpng-1.6.16/contrib/libtests/.dirstamp
+ext/libpng-1.6.16/contrib/libtests/*.o
+ext/libpng-1.6.16/contrib/tools/.deps/
+ext/libpng-1.6.16/contrib/tools/.dirstamp
+ext/libpng-1.6.16/contrib/tools/*.o
+ext/libpng-1.6.16/include/
+ext/libpng-1.6.16/lib/
+ext/libpng-1.6.16/libpng-config
+ext/libpng-1.6.16/libpng.pc
+ext/libpng-1.6.16/libpng.sym
+ext/libpng-1.6.16/libpng16-config
+ext/libpng-1.6.16/libpng16.la
+ext/libpng-1.6.16/libpng16.pc
+ext/libpng-1.6.16/libtool
+ext/libpng-1.6.16/png-fix-itxt
+ext/libpng-1.6.16/*.lo
+ext/libpng-1.6.16/*.o
+ext/libpng-1.6.16/pngfix
+ext/libpng-1.6.16/pngimage
+ext/libpng-1.6.16/pnglibconf.*
+ext/libpng-1.6.16/pngout.png
+ext/libpng-1.6.16/pngprefix.h
+ext/libpng-1.6.16/pngstest
+ext/libpng-1.6.16/pngtest
+ext/libpng-1.6.16/pngunknown
+ext/libpng-1.6.16/pngvalid
+ext/libpng-1.6.16/scripts/sym.out
+ext/libpng-1.6.16/scripts/symbols.chk
+ext/libpng-1.6.16/scripts/symbols.out
+ext/libpng-1.6.16/share/
+ext/libpng-1.6.16/stamp-h1
+ext/libpng-1.6.16/test-suite.log
+ext/libpng-1.6.16/tests/*.log
+ext/libpng-1.6.16/tests/*.trs
+
+# Misc.
+.editorconfig
+.vscode/

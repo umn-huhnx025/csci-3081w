@@ -1,0 +1,7 @@
+var searchData=
+[
+  ['name',['name',['../classimage__tools_1_1TBlur.html#a9277f8a68498ab7eb27977ae369d1c69',1,'image_tools::TBlur::name()'],['../classimage__tools_1_1TCalligraphyPen.html#adcc77e8eaf9fbd8d03eeba73f6f51f7b',1,'image_tools::TCalligraphyPen::name()'],['../classimage__tools_1_1TChalk.html#a74f65065dbc618e5f30089597d39bb46',1,'image_tools::TChalk::name()'],['../classimage__tools_1_1TEraser.html#a81b041c9389e310fa446fc9e69d2a82f',1,'image_tools::TEraser::name()'],['../classimage__tools_1_1THighlighter.html#a741f3c465603450d443f7445ec87c670',1,'image_tools::THighlighter::name()'],['../classimage__tools_1_1TPen.html#ace8f722fce340f23894f12ada93e2e8b',1,'image_tools::TPen::name()'],['../classimage__tools_1_1TSprayCan.html#a550d5510cdf8dc826560dcbca9bedbd9',1,'image_tools::TSprayCan::name()'],['../classimage__tools_1_1TStamp.html#a1a1dec7161830a68bdaefbc0ec567855',1,'image_tools::TStamp::name()'],['../classimage__tools_1_1Tool.html#a251c179e3ac9756d08fbcd082750f8a9',1,'image_tools::Tool::name()']]],
+  ['normalizekernel',['NormalizeKernel',['../classimage__tools_1_1Kernel.html#aac797e48d4e2880752fe805455e68216',1,'image_tools::Kernel']]],
+  ['num_5ffilters',['num_filters',['../classimage__tools_1_1FilterFactory.html#a6fbb1d1ceba2b8acdcd43f4bfabb068f',1,'image_tools::FilterFactory']]],
+  ['num_5ftools',['num_tools',['../classimage__tools_1_1ToolFactory.html#a365cd7d26afa67a4d5b2e730f585df90',1,'image_tools::ToolFactory']]]
+];
